@@ -8,12 +8,12 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/TwinProduction/go-color"
+	"github.com/inancgumus/screen"
 )
 
 func ascii() {
-	os.Clearenv()
-	println(color.Blue +
+	screen.Clear()
+	println(
 		`
 	 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 	 |   ____                           ______        ______   |
@@ -25,7 +25,7 @@ func ascii() {
 	 |       A Tool designed to create secure Passwords.       |
 	 |             [Coded by github.com/zentreax]              |
 	 |_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _|
-														  ` + color.Reset)
+														  `)
 }
 
 func main() {
