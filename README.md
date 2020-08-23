@@ -4,7 +4,7 @@
  ## Installation
  Clone this repository:
  ```
- $ git clone github.com/zentreax/securepwd
+ $ git clone https://github.com/Zentreax/SecurePWD.git
  $ cd /securepwd
  ```
  Now run it with:
