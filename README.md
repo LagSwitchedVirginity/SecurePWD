@@ -1,5 +1,5 @@
 # SecurePWD
- ⚔️ | A Tool made in GoLang, to generate secure passwords fast.
+ ⚔️ | A Tool made in GoLang, to generate passwords fast.
  
  ## Installation
  Clone this repository:
