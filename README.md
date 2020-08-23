@@ -5,7 +5,7 @@
  Clone this repository:
  ```
  $ git clone https://github.com/Zentreax/SecurePWD.git
- $ cd /securepwd
+ $ cd SecurePWD
  ```
  Now run it with:
  ```
